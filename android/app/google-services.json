@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794040003121",
+    "project_id": "todoflutter-e06f3",
+    "storage_bucket": "todoflutter-e06f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794040003121:android:f852061ca07ae53cc60310",
+        "android_client_info": {
+          "package_name": "com.gaymasters.whopaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794040003121-b1ef9s5q5lfgivieqbunk31qijagkpnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHfmkOqLDnkwJ-uf8xVAj6lNWiG-2afA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794040003121-b1ef9s5q5lfgivieqbunk31qijagkpnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
